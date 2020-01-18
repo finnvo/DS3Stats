@@ -1,0 +1,224 @@
+Enemy,Area,Type,Weaknesses,Resistances,Immunities,HP,Souls
+Crystal Lizard,Cemetery of Ash,Dragon Lineage,None;,Magic,Poison; Toxic; Bleed; Frost,79,-1
+Grave Warden,Cemetery of Ash,Hollow,Poison; Toxic,None,None,74,20
+Iudex Gundyr,Cemetery of Ash,Boss,Frost;Fire;Lightning,Dark;Bleed,Poison;Toxic,1037,3000
+Ravenous Crystal Lizard,Cemetery of Ash,Dragon Lineage,None,Magic; Lightning; Fire,Poison; Toxic; Bleed; Frost,1200,4000
+Starved Hound,Cemetery of Ash,Undead Animal,Fire,None,None,110,10
+Crystal Lizard,High Wall of Lothric,Dragon Lineage,None,Magic,Poison; Toxic; Bleed; Frost,79,-1
+Darkwraith,High Wall of Lothric,Hollow,Wolf Knight's Greatsword; Farron Greatsword,Strike;Thrust;Magic;Lightning;Fire;Dark;Bleed;Frost,Toxic;Rapport,692,2500
+Hollow,High Wall of Lothric,Hollow,Fire,Dark,None,68,30
+Hollow Assassin,High Wall of Lothric,Hollow,Poison; Toxic,None,None,130,30
+Hollow Soldier,High Wall of Lothric,Hollow,Poison; Toxic,None,None,130,30
+Lothric Knight,High Wall of Lothric,Hollow,Lightning; Frost; Poison; Toxic; Hollowslayer Greatsword,Standard; Strike; Slash; Thrust; Fire; Bleed,None,326,220
+Lothric Wyvern,High Wall of Lothric,Wyvern,Lightning;Frost;Thrust,Fire;Poison;Toxic;Bleed,None,2723,0
+Mimic,High Wall of Lothric,Cursed Tribe,Dark;Bleed;Poison;Toxic,Lightning;Fire;Magic,None,854,2000
+Pus of Man,High Wall of Lothric,Abyssal,Fire,Dark;Frost,Poison;Toxic,841,250
+Starved Hound,High Wall of Lothric,Undead Animal,Fire,None,None,110,10
+Vordt of the Boreal Valley,High Wall of Lothric,Boss,Dark;Strike,Standard;Slash;Thrust;Magic,Poison;Toxic;Bleed;Frost,1328,3000
+Winged Knight,High Wall of Lothric,Humanoid,Frost;Dark;Magic;Thrust;Backstab,Standard;Slash;Strike;Fire;Lightning;Poison;Toxic;Bleed,None,508,300
+Dancer of the Boreal Valley,High Wall of Lothric,Boss,Dark;Lightning;Strike,None,Poison;Toxic;Frost,5111,60000
+Boreal Outrider Knight,Undead Settlement,Humanoid,Dark,Frost; Fire; Magic; Standard; Strike; Slash; Thrust,Toxic;Poison,654,1600
+Cage Spider,Undead Settlement,Undead,Thrust; Fire; Magic; Bleed,Strike; Slash,None,135,40
+Cathedral Evangelist,Undead Settlement,Undead,Frost; Bleed; Thrust; Backstab,Fire; Strike,None,657,380
+Crystal Lizard,Undead Settlement,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Demon,Undead Settlement,Demon,Black Knight Weapons; Dark,Fire;Poison;Toxic,Bleed;Frost,1390,5000
+Giant Slave,Undead Settlement,Giant,Strike,Magic; Fire; Lightning; Dark,Poison;Toxic;Frost,-1,4000
+Hollow (Non-Hostile),Undead Settlement,Hollow,Fire,Dark,None,68,30
+Hollow Manservant,Undead Settlement,Hollow,None,None,None,551,320
+Hollow Slave,Undead Settlement,Hollow,Toxic,None,None,375,80
+Hound-Rat,Undead Settlement,Undead Animal,Slash; Fire,Poison; Toxic,None,111,30
+Large Hound-Rat,Undead Settlement,Undead Animal,Slash; Fire,Poison; Toxic,None,334,450
+Peasant Hollow,Undead Settlement,Hollow,None,None,None,402,60
+Skeleton,Undead Settlement,Skeleton,Strike; Blessed Weapons ,Slash; Thrust; Fire; Lightning; Dark,Status Effects,148,50
+Starved Hound,Undead Settlement,Undead Animal,Fire,None,None,110,10
+Curse-Rotted Greatwood,Undead Settlement,Boss,Slash;Thrust;Fire;Pestilent Mist,None,Poison;Toxic;Bleed;Frost,5405,7000
+Black Knight,Road of Sacrifices,Humanoid,Dark; Frost; Poison;Toxic,Standard; Slash; Thrust; Bleed; Lightning,Rapport; Alluring Skull,672,900
+Cathedral Evangelist,Road of Sacrifices,Undead,Frost; Bleed; Thrust; Backstab,Fire; Strike,None,657,380
+Corvian,Road of Sacrifices,Humanoid,Fire; Poison,None,None,359,90
+Corvian Storyteller,Road of Sacrifices,Humanoid,None,None,None,359,360
+Crystal Lizard,Road of Sacrifices,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Great Crab,Road of Sacrifices,Abnormal Animal,Fire; Strike; Magic; Lightning,Standard; Slash; Thrust,Bleed,1058,800
+Hollow Manservant,Road of Sacrifices,Hollow,None,None,None,551,320
+Lesser Crab,Road of Sacrifices,Hostile Animal,None,None,None,100,36
+Lycanthrope,Road of Sacrifices,Hollow,Bleed; Fire; Dark,Lightning,None,816,350
+Lycanthrope Hunter,Road of Sacrifices,Hollow,Fire,None,None,294,150
+Poisonhorn Bug,Road of Sacrifices,Bug,Fire,None,Poison,192,40
+Sage's Devout,Road of Sacrifices,Hollow,Fire,None,None,499,280
+Sage's Prentice,Road of Sacrifices,Hollow,Fire,None,None,88,60
+Starved Hound,Road of Sacrifices,Undead Animal,Fire,None,None,204,80
+Crystal Sage,Road of Sacrifices,Boss,Standard; Strike; Slash; Thrust;Lightning;Dark;Fire;Poison;Toxic;Frost,Magic,None,2723,8000
+Cathedral Evangelist,Cathedral of the Deep,Undead,Frost; Bleed; Thrust; Backstab,Fire; Strike,None,657,380
+Cathedral Grave Warden,Cathedral of the Deep,Hollow,Frost;Fire;Hollowslayer Greatsword,None,None,707,750
+Cathedral Knight,Cathedral of the Deep,Undead,Lightning; Frost,Standard; Strike; Slash; Thrust; Fire; Dark,None,556,550
+Corpse-grub,Cathedral of the Deep,Humanoid,Fire;Bleed,Strike,Poison;Toxic,680,600
+Crystal Lizard,Cathedral of the Deep,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Deacon of the Deep,Cathedral of the Deep,Hollow,Hollowslayer Greatsword,Magic; Dark; Strike,None,292,150
+Deep Accursed,Cathedral of the Deep,Monstrosity,Fire;Bleed;Frost,None,Rapport,800,1500
+Giant Slave,Cathedral of the Deep,Giant,Strike,Magic; Fire; Lightning; Dark,Poison;Toxic;Frost,-1,16000
+Hollow Slave,Cathedral of the Deep,Hollow,Toxic,None,None,375,80
+Hollow Soldier,Cathedral of the Deep,Hollow,Poison; Toxic,None,None,218,550
+Infested Corpse,Cathedral of the Deep,Undead,Fire,None,None,233,200
+Man-grub,Cathedral of the Deep,Humanoid,Fire; Thrust,None,Poison;Toxic,-1,121
+Peasant Hollow,Cathedral of the Deep,Hollow,None,None,None,402,60
+Ravenous Crystal Lizard,Cathedral of the Deep,Dragon Lineage,None,Magic; Lightning; Fire,Poison; Toxic; Bleed; Frost,1231,5000
+Reanimated Corpse,Cathedral of the Deep,Undead,Fire,None,None,233,20
+Starved Hound,Cathedral of the Deep,Undead Animal,Fire,None,None,211,80
+Deacons of the Deep,Cathedral of the Deep,Boss,Standard; Strike; Slash; Thrust;Frost;Vow of Silence,Dark;Magic;Bleed;Poison;Toxic,None,4099,13000
+Basilisk,Farron Keep,Abnormal Animal,Bleed; Frost; Fire,None,Poison;Toxic,400,120
+Black Knight,Farron Keep,Humanoid,Dark; Frost; Poison;Toxic,Standard; Slash; Thrust; Bleed; Lightning,Rapport; Alluring Skull,672,900
+Corvian,Farron Keep,Humanoid,Fire; Poison,None,None,432,120
+Corvian Storyteller,Farron Keep,Humanoid,None,None,None,432,440
+Crystal Lizard,Farron Keep,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Darkwraith,Farron Keep,Hollow,Wolf Knight's Greatsword; Farron Greatsword,Strike;Thrust;Magic;Lightning;Fire;Dark;Bleed;Frost,Toxic;Rapport,700,500
+Elder Ghru,Farron Keep,Ghru,Fire; Magic; Bleed,Strike,None,830,1600
+Ghru,Farron Keep,Ghru,Fire,None,Poison; Toxic,500,1100
+Great Crab,Farron Keep,Abnormal Animal,Fire; Strike; Magic; Lightning,Standard; Slash; Thrust,Bleed,1058,800
+Hollow Assassin,Farron Keep,Hollow,Poison; Toxic,None,None,218,550
+Hollow Soldier,Farron Keep,Hollow,Poison; Toxic,None,None,218,550
+Ravenous Crystal Lizard,Farron Keep,Dragon Lineage,None,Magic; Lightning; Fire,Poison; Toxic; Bleed; Frost,1231,5000
+Rotten Slug,Farron Keep,Bug,Thrust; Fire,Strike; Dark,Poison,265,30
+Stray Demon,Farron Keep,Demon,Strike; Dark; Black Knight Weapons,Fire;Lightning,Poison;Toxic;Bleed;Frost,2004,5000
+Abyss Watchers,Farron Keep,Boss,Lightning,Dark;Bleed,Poison;Toxic,1548,18000
+Crystal Lizard,Catacombs of Carthus,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Gravewarden Skeleton,Catacombs of Carthus,Skeleton,Strike; Blessed Weapons ,Standard; Slash; Thrust; Fire; Lightning; Dark,None,582,320
+Hound-Rat,Catacombs of Carthus,Undead Animal,Slash; Fire,Poison; Toxic,None,187,60
+Skeleton ,Catacombs of Carthus,Skeleton,Strike; Blessed Weapons ,Slash; Thrust; Fire; Lightning; Dark,Status Effects,148,50
+Skeleton Swordsman,Catacombs of Carthus,Skeleton,Strike; Blessed Weapons ,Slash; Thrust; Fire; Lightning; Dark,Status Effects,582,320
+Skeleton Wheel,Catacombs of Carthus,Skeleton,Strike; Blessed Weapons ,Standard; Slash; Thrust; Fire; Dark; Lightning,Status Effects,249,280
+Writhing Rotten Flesh,Catacombs of Carthus,Monstrosity,Lightning; Dark,Standard; Strike; Slash; Thrust,Fire; Frost; Poison; Toxic,-1,-1
+High Lord Wolnir,Catacombs of Carthus,Boss,Strike;Blessed Weapons,Dark;Poison;Toxic,Bleed;Frost,15041,22000
+Basilisk,Smouldering Lake,Abnormal Animal,Bleed; Frost; Fire,None,Poison;Toxic,600,80
+Black Knight,Smouldering Lake,Humanoid,Dark; Frost; Poison;Toxic,Standard; Slash; Thrust; Bleed; Lightning,Rapport; Alluring Skull,672,900
+Carthus Sandworm,Smouldering Lake,Monstrosity,Thrust; Magic; Dark; Fire,Lightning; Bleed,Frost; Poison; Toxic,3180,6000
+Carthus Swordsman Skeleton,Smouldering Lake,Skeleton,Strike; Blessed Weapons ,Slash; Thrust; Fire; Lightning; Dark,Status Effects,582,320
+Crystal Lizard,Smouldering Lake,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Demon,Smouldering Lake,Demon,Black Knight Weapons; Dark,Fire;Poison;Toxic,Bleed;Frost,1390,5000
+Demon Statue,Smouldering Lake,Demon,None,Fire; Lightning; Dark,Bleed; Poison; Toxic; Frost,228,150
+Great Crab,Smouldering Lake,Abnormal Animal,Fire; Strike; Magic; Lightning,Standard; Slash; Thrust,Bleed,1539,1200
+Hound-Rat,Smouldering Lake,Undead Animal,Slash; Fire,Poison; Toxic,None,239,60
+Knight Slayer Tsorig,Smouldering Lake,Humanoid,None,None,None,1000,4000
+Lesser Crab,Smouldering Lake,Hostile Animal,None,None,None,100,36
+Mimic,Smouldering Lake,Cursed Tribe,Dark;Bleed;Poison;Toxic,Lightning;Fire;Magic,None,854,2000
+Skeleton Wheel,Smouldering Lake,Skeleton,Strike; Blessed Weapons ,Standard; Slash; Thrust; Fire; Dark; Lightning,Status Effects,249,280
+Smoldering Ghru,Smouldering Lake,Ghru,Bleed; Poison; Dark; Lightning,Fire; Blunt; Frost,Rapport,635,900
+Smoldering Rotten Flesh,Smouldering Lake,Monstrosity,Lightning; Dark,Standard; Strike; Slash; Thrust,Fire; Frost; Poison;Toxic,-1,-1
+Old Demon King,Smouldering Lake,Boss,Dark; Black Knight Weapons,Fire;Poison;Toxic,Bleed;Frost,5301,25000
+Burning Stake Witch,Irithyll of Boreal Valley,Humanoid,Dark,Standard; Strike; Slash; Thrust; Fire; Frost; Lightning,None,792,1800
+Cathedral Evangelist,Irithyll of Boreal Valley,Undead,Frost; Bleed; Thrust; Backstab,Fire; Strike,None,657,380
+Corvian,Irithyll of Boreal Valley,Humanoid,Fire; Poison,None,None,792,150
+Crystal Lizard,Irithyll of Boreal Valley,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Giant Slave,Irithyll of Boreal Valley,Giant,Strike,Magic; Fire; Lightning; Dark,Poison;Toxic;Frost,-1,4000
+Irithyllian Beast-hound,Irithyll of Boreal Valley,Abnormal Animal,Fire,None,None,345,350
+Irithyllian Slave,Irithyll of Boreal Valley,Undead,Fire; Bleed; Poison; Toxic,Thrust; Magic; Dark; Frost,None,512,250
+Mimic,Irithyll of Boreal Valley,Cursed Tribe,Dark;Bleed;Poison;Toxic,Lightning;Fire;Magic,None,854,2000
+Pontiff Knight,Irithyll of Boreal Valley,Humanoid,Strike; Dark; Fire,Frost; Bleed,None,621,900
+Sewer Centipede,Irithyll of Boreal Valley,Monstrosity,Fire,Thrust;Bleed,Poison;Toxic,478,750
+Silver Knight,Irithyll of Boreal Valley,Humanoid,Dark; Thrust; Frost,Slash; Strike; Fire; Lightning;Poison;Toxic; Bleed,Rapport,1099,2500
+Sulyvahn's Beast,Irithyll of Boreal Valley,Monstrosity,Bleed; Poison; Fire; Frost,None,None,2721,11000
+Pontiff Sulyvahn,Irithyll of Boreal Valley,Boss,Thrust;Fire;Lightning;Dark,Poison;Toxic;Bleed;Frost,None,5106,28000
+Basilisk,Irithyll Dungeon,Abnormal Animal,Bleed; Frost; Fire,None,Poison;Toxic,600,130
+Cage Spider,Irithyll Dungeon,Undead,Thrust; Fire; Magic; Bleed,Strike; Slash,None,135,40
+Corpse-grub,Irithyll Dungeon,Humanoid,Fire;Bleed,Strike,Poison;Toxic,680,600
+Crystal Lizard,Irithyll Dungeon,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Giant Slave,Irithyll Dungeon,Giant,Strike,Magic; Fire; Lightning; Dark,Poison;Toxic;Frost,-1,16000
+Hound-Rat,Irithyll Dungeon,Undead Animal,Slash; Fire,Poison; Toxic,None,239,60
+Infested Corpse,Irithyll Dungeon,Undead,Fire,None,None,233,200
+Jailer,Irithyll Dungeon,Humanoid,Thrust; Lightning; Frost,Magic,Rapport,700,700
+Large Hound-rat,Irithyll Dungeon,Undead Animal,Slash; Fire,Poison; Toxic,None,334,450
+Lycanthrope,Irithyll Dungeon,Hollow,Bleed; Fire; Dark,Lightning,None,816,350
+Mimic,Irithyll Dungeon,Cursed Tribe,Dark;Bleed;Poison;Toxic,Lightning;Fire;Magic,None,854,2000
+Monstrosity of Sin,Irithyll Dungeon,Abyssal,Bleed; Wolf Knight's Greatsword; Farron Greatsword; Dark,None,Poison; Toxic,3946,2700
+Peasant Hollow,Irithyll Dungeon,Hollow,None,None,None,402,60
+Reanimated Corpse,Irithyll Dungeon,Undead,Fire,None,None,391,180
+Sewer Centipede,Irithyll Dungeon,Monstrosity,Fire,Thrust;Bleed,Poison;Toxic,478,750
+Wretch,Irithyll Dungeon,Abomination,Lightning; Frost,Standard; Strike; Slash; Thrust; Fire; Poison; Toxic; Bleed,None,496,250
+Crystal Lizard,Archdragon Peak,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Drakeblood Knight,Archdragon Peak,Humanoid,None,None,None,1300,4000
+Giant Serpent-Man,Archdragon Peak,Dragon Lineage,Frost; Bleed; Thrust; Lightning,Standard; Strike; Slash; Fire,Rapport,1853,3600
+Havel Knight,Archdragon Peak,Humanoid,Backstab; Bleed; Toxic, Standard; Strike; Slash; Thrust; Fire; Lightning; Dark,Rapport,2048,4000
+Rock Lizard,Archdragon Peak,Dragon Lineage,None,Standard; Strike; Slash; Thrust; Magic; Fire; Lightning; Dark; Frost,Bleed; Poison; Toxic,1300,4000
+Serpent-Man,Archdragon Peak,Dragon Lineage,Frost; Bleed; Thrust; Lightning,Standard; Strike; Slash; Fire,Rapport,589,1500
+Serpent-Man Summoner,Archdragon Peak,Dragon Lineage,Thrust; Lightning; Frost,Magic,Rapport,530,2400
+Ancient Wyvern,Archdragon Peak,Boss,Lightning;Frost;Thrust;Plunging Attack,Poison;Toxic;Bleed;Fire;Standard;Strike;Slash,None,7873,70000
+Nameless King,Archdragon Peak,Boss,Fire;Dark,Lightning;Frost;Bleed,Poison;Toxic,7100,80000
+King of Storms,Archdragon Peak,Boss,Lightning;Frost,Poison;Toxic;Bleed;Fire,None,4577,80000
+Crystal Lizard,Profaned Capital,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Headless Gargoyle,Profaned Capital,Animated Statue,Magic; Dark; Strike,Fire; Lightning,Rapport,-1,2500
+Jailer,Profaned Capital,Humanoid,Thrust; Lightning; Frost,Magic,Rapport,700,700
+Mimic,Profaned Capital,Cursed Tribe,Dark;Bleed;Poison;Toxic,Lightning;Fire;Magic,None,854,2000
+Monstrosity of Sin,Profaned Capital,Abyssal,Bleed; Wolf Knight's Greatsword; Farron Greatsword; Dark,None,Poison; Toxic,3946,2700
+Sewer Centipede,Profaned Capital,Monstrosity,Fire,Thrust;Bleed,Poison;Toxic,490,750
+Yhorm the Giant,Profaned Capital,Boss,Lightning;Dark;Storm Ruler,Slash;Thrust,Poison;Toxic;Fire;Bleed;Frost,27822,36000
+Deep Accursed,Anor Londo,Monstrosity,Fire;Bleed;Frost,None,Rapport,2200,2500
+Devout of the Deep,Anor Londo,Hollow,Standard; Strike; Slash; Thrust;Frost,Dark; Magic; Poison; Toxic; Bleed,None,670,2700
+Rotten Flesh of Aldrich,Anor Londo,Monstrosity,Fire,Standard; Strike; Slash; Thrust;Magic,Frost; Poison; Toxic,-1,-1
+Silver Knight,Anor Londo,Humanoid,Dark; Thrust; Frost,Slash; Strike; Fire; Lightning;Poison;Toxic; Bleed,Rapport,998,2500
+Aldrich Devourer of Gods,Anor Londo,Boss,Lightning;Fire;Thrust;Farron Greatsword;Wolf Knight's Greatsword;Vow of Silence,Magic;Dark;Frost;Bleed,Poison;Toxic,4727,50000
+Consumed King's Knight,Consumed King's Garden,Knight,Poison; Toxic; Bleed,Lightning; Frost,None,1194,2800
+Hollow Slave,Consumed King's Garden,Hollow,Toxic,None,None,375,-1
+Lothric Priest,Consumed King's Garden,Hollow,Lightning; Frost; Poison; Toxic; Hollowslayer Greatsword,Standard; Strike; Slash; Thrust; Fire; Bleed,None,430,800
+Pus of Man,Consumed King's Garden,Abyssal,Fire,Dark;Frost,Poison;Toxic,1937,2500
+Rotten Slug,Consumed King's Garden,Bug,Thrust; Fire,Strike; Dark,Poison,265,96
+Serpent-Man,Consumed King's Garden,Dragon Lineage,Frost; Bleed; Thrust; Lightning,Standard; Strike; Slash; Fire,Rapport,589,1500
+Oceiros the Consumed King,Consumed King's Garden,Boss,Lightning;Frost,Magic;Bleed,Poison;Toxic,8087,58000
+Black Knight,Untended Graves,Humanoid,Dark; Frost; Poison;Toxic,Standard; Slash; Thrust; Bleed; Lightning,Rapport; Alluring Skull,672,900
+Cathedral Grave Warden,Untended Graves,Hollow,Fire; Frost; Hollowslayer Greatsword,None,None,707,750
+Corvian,Untended Graves,Humanoid,Fire; Poison,None,None,792,150
+Corvian Storyteller,Untended Graves,Humanoid,None,None,None,792,400
+Grave Warden,Untended Graves,Hollow,Poison; Toxic,None,None,-1,-1
+Pus of Man,Untended Graves,Abyssal,Fire,Dark;Frost,Poison;Toxic,1937,2500
+Ravenous Crystal Lizard,Untended Graves,Dragon Lineage,None,Magic; Lightning; Fire,Poison; Toxic; Bleed; Frost,2019,10000
+Starved Hound,Untended Graves,Undead Animal,Fire,None,None,450,180
+Champion Gundyr,Untended Graves,Boss,Strike;Lightning;Frost,Slash;Poison;Toxic;Bleed,None,4956,60000
+Boreal Outrider Knight,Lothric Castle,Humanoid,Dark,Frost; Fire; Magic; Standard; Strike; Slash; Thrust,Toxic;Poison,1971,3000
+Crystal Lizard,Lothric Castle,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Hollow Assassin,Lothric Castle,Hollow,Poison; Toxic,None,None,430,400
+Hollow Soldier,Lothric Castle,Hollow,Poison; Toxic,None,None,552,400
+Lothric Knight,Lothric Castle,Hollow,Lightning; Frost; Poison; Toxic; Hollowslayer Greatsword,Standard; Strike; Slash; Thrust; Fire; Bleed,None,1079,2500
+Lothric Wyvern,Lothric Castle,Wyvern,Lightning; Frost; Thrust,Fire; Poison; Toxic; Bleed,None,2723,-1
+Mimic,Lothric Castle,Cursed Tribe,Dark;Bleed;Poison;Toxic,Lightning;Fire;Magic,None,854,2000
+Pus of Man,Lothric Castle,Abyssal,Fire,Dark;Frost,Poison;Toxic,1937,2500
+Winged Knight,Lothric Castle,Humanoid,Frost;Dark;Magic;Thrust;Backstab,Standard;Slash;Strike;Fire;Lightning;Poison;Toxic;Bleed,None,1733,2860
+Dragonslayer Armour,Lothric Castle,Boss,Frost;Strike;Wolf Knight's Greatsword;Farron Greatsword,Dark;Lightning;Slash,Poison;Toxic;Bleed,4581,48000
+The Twin Princes,Lothric Castle,Boss,Lightning;Frost;Magic;Standard; Strike; Slash; Thrust,Dark,Poison;Toxic,10093,85000
+Boreal Outrider Knight,Grand Archives,Humanoid,Dark,Frost; Fire; Magic; Standard; Strike; Slash; Thrust,Toxic;Poison,2330,15000
+Corvian,Grand Archives,Humanoid,Fire; Poison,None,None,1020,1300
+Corvian Storyteller,Grand Archives,Humanoid,None,None,None,1020,3200
+Crystal Lizard,Grand Archives,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Crystal Sage,Grand Archives,Humanoid,Poison;Toxic;Frost;Standard; Strike; Slash; Thrust,Magic,None,4090,22000
+Gargoyle,Grand Archives,Animated Statue,Magic; Dark; Strike,Fire; Lightning,Rapport,-1,2500
+Gertrude's Knight,Grand Archives,Humanoid,Dark; Magic; Frost; Thrust,Standard; Strike; Slash; Fire; Lightning; Bleed; Poison;Toxic,None,2460,13000
+Grand Archives Scholar,Grand Archives,Undead,Fire,Magic,None,871,2700
+Hollow Slave,Grand Archives,Hollow,Toxic,None,None,375,-1
+Hollow Soldier,Grand Archives,Hollow,Poison; Toxic,None,None,660,550
+Lothric Knight,Grand Archives,Hollow,Lightning; Frost; Poison; Toxic; Hollowslayer Greatsword,Standard; Strike; Slash; Thrust; Fire; Bleed,None,1289,4000
+Man-grub,Grand Archives,Humanoid,Fire; Thrust,None,Poison;Toxic,-1,121
+Soul of Cinder,Kiln of the First Flame,Boss,Lightning;Dark;Vow of Silence,Fire;Bleed,Poison;Toxic,10766,100000
+Corvian Knight,Painted World of Ariandel ,Humanoid,Frost; Dark; Lightning,Bleed; Poison; Toxic; Fire,None,-1,-1
+Corvian Settler,Painted World of Ariandel ,Humanoid,Fire; Dark,Frost; Poison; Lightning,None,442,-1
+Crystal Lizard,Painted World of Ariandel ,Dragon Lineage,None,Magic,Poison;Toxic;Bleed;Frost,79,-1
+Farron Follower,Painted World of Ariandel ,Hollow,Fire; Poison; Hollowslayer Greatsword,Frost; Bleed,None,-1,700
+Giant Fly,Painted World of Ariandel ,Bug,Fire,None,None,331,-1
+Great Crab,Painted World of Ariandel ,Abnormal Animal,Fire; Strike; Magic; Lightning,Standard; Slash; Thrust,Bleed,1058,800
+Millwood Knight,Painted World of Ariandel ,Undead,Poison; Toxic; Dark; Frost,Fire; Bleed,None,1824,1600
+Sewer Centipede,Painted World of Ariandel ,Monstrosity,Fire,Thrust;Bleed,Poison;Toxic,490,750
+Tree Woman,Painted World of Ariandel ,Abomination,Fire,Lightning,Bleed; Poison; Toxic; Frost,1207,-1
+Wolf,Painted World of Ariandel ,Hostile Animal,Fire,None,None,491,-1
+Sister Friede,Painted World of Ariandel ,Boss,Standard; Strike; Slash; Thrust;Dark;Bleed;Lightning,Poison;Toxic,Frost,18877,72000
+Champion's Gravetender & Gravetender Greatwolf,Painted World of Ariandel ,Boss,Bleed;Lightning;Fire,Frost;Poison;Toxic,None,6984,60000
+Angel,The Ringed City ,Humanoid,None,None,None,2210,-1
+Grotesque Londor Grower,The Ringed City ,Hollow,Fire; Standard; Strike; Slash; Thrust; Hollowslayer Greatsword,None,Rapport,1000,5000
+Harald Legion Knight,The Ringed City ,Abyssal,Fire; Lightning; Farron Greatsword; Wolf Knight's Greatsword,Standard; Strike; Slash; Thrust; Dark,Frost; Bleed; Poison; Toxic,3840,5800
+Hollow Cleric,The Ringed City ,Hollow,Strike; Magic;Fire; Lightning,Frost; Poison; Toxic,None,996,1400
+Iron Dragonslayer,The Ringed City ,Abyssal,Frost; Strike; Farron Greatsword; Wolf Knight's Greatsword,Lightning; Dark; Slash,Poison; Toxic; Bleed,4154,64000
+Judicator,The Ringed City ,Giant,Strike; Dark; Lightning,Standard; Slash; Thrust, Bleed; Frost; Poison;Toxic; Rapport,2200,4000
+Locust Preacher,The Ringed City ,Monstrosity,Frost; Fire; Lightning,Dark; Poison; Toxic,None,2000,2200
+Murkman,The Ringed City ,Hollow,Fire; Lightning; Hollowslayer Greatsword,Dark,Poison; Toxic; Frost,-1,-1
+Overgrown Lothric Knight,The Ringed City ,Humanoid,Poison; Toxic; Lightning; Frost,Standard; Strike; Slash; Thrust; Bleed; Fire,None,1300,-1
+Ringed Knight,The Ringed City ,Humanoid,Frost; Dark; Magic,Fire; Lightning; Standard; Slash; Thrust; Poison; Toxic; Bleed,Rapport,2009,7000
+Undead Cleric,The Ringed City ,Humanoid,Frost; Bleed; Slash,Lightning; Poison; Toxic,None,900,1100
+Demon in Pain & Demon from Below,The Ringed City ,Boss,Bleed;Dark;Slash;Black Knight Weapons,Fire,Frost;Poison;Toxic,14124,100000
+Demon Prince,The Ringed City ,Boss,Bleed;Black Knight Weapons,Fire;Magic;Lightning;Standard;Strike;Thrust,Frost;Poison;Toxic,7045,100000
+Halflight Spear of the Church,The Ringed City ,Boss,Frost;Lightning;Fire;Vow of Silence,Bleed;Poison;Toxic,None,3350,80000
+Darkeater Midir,The Ringed City ,Boss,Lightning;Thrust;Farron Greatsword;Wolf Knight's Greatsword;Pestilent Mist,Dark;Fire;Magic,Poison;Toxic;Bleed;Frost,15860,150000
+Slave Knight Gael,The Ringed City ,Boss,Strike;Frost;Poison;Toxic;Hollowslayer Greatsword,Slash;Dark;Bleed,None,14985,120000
